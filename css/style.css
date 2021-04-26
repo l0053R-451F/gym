@@ -448,3 +448,53 @@ nav .a:hover {
     margin-left: 881px;
     margin-top: -105px;
 }
+
+.bottomLogo {
+    margin-left: 465px;
+    margin-top: 150px;
+}
+
+.bottomNav {
+    margin-left: 290px;
+    margin-top: 32px;
+}
+
+.bottomNav a {
+    text-align: center;
+    text-decoration: none;
+    padding: 15px;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 21px;
+    color: #00A0B6;
+}
+
+.bottomNav a:hover {
+    background: rgba(0, 160, 182, 0.6);
+    border-bottom: 5px solid #00A0B6;
+    color: white;
+}
+
+.payment {
+    margin-top: 32.55px;
+    margin-left: 250px;
+}
+
+.payment a {
+    padding: 23px;
+}
+
+footer {
+    margin-top: 32.55px;
+    background: #00A0B6;
+    height: 30px;
+}
+
+footer p {
+    padding-top: 5px;
+    text-align: center;
+    color: white;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 23px;
+}
