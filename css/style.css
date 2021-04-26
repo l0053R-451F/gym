@@ -1,0 +1,450 @@
+body {
+    font-family: 'Roboto';
+}
+
+nav {
+    height: 100px;
+}
+
+nav a {
+    color: #00A0B6;
+}
+
+nav a:hover {
+    color: white;
+}
+
+nav .a {
+    font-size: 18px;
+    padding-top: 45px;
+    padding-left: 10px;
+    padding-right: 10px;
+    color: #00A0B6;
+    line-height: 21px;
+    text-align: center;
+    text-decoration: none;
+    height: 100px;
+}
+
+nav .a:hover {
+    background-color: rgba(0, 160, 182, 0.6);
+    border-bottom: 5px solid #00A0B6;
+    color: solid white;
+}
+
+.navbar-brand {
+    margin-top: 30px;
+}
+
+.contractButton {
+    margin-top: 20px;
+    width: 134px;
+    height: 47px;
+    background: #00A0B6;
+    border: 1px solid #00A0B6;
+    box-sizing: border-box;
+    border-radius: 5px;
+    color: #fff;
+    cursor: pointer;
+}
+
+.landing {
+    height: 873px;
+    background: linear-gradient(360deg, #F3F3F3 0%, rgba(243, 243, 243, 0) 100%);
+}
+
+.wellDone h2 {
+    margin-top: 250px;
+    margin-left: 55px;
+    font-weight: 900;
+    font-size: 70px;
+    line-height: 82px;
+    color: #2C3552;
+}
+
+.wellDone p {
+    margin-left: 55px;
+    margin-top: 40px;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 23px;
+    color: #929395;
+}
+
+.bodyMan {
+    margin-left: 330px;
+    margin-top: 495px;
+}
+
+.ropeMan {
+    margin-left: 20px;
+    margin-top: -880px;
+}
+
+.sittingMan {
+    margin-top: -860px;
+    margin-left: 440px;
+}
+
+.container h1 {
+    margin-top: 66px;
+    text-align: center;
+    font-weight: 900;
+    font-size: 49px;
+    line-height: 57px;
+    color: #2C3552;
+}
+
+.vecSet {
+    margin-top: 196px;
+}
+
+.vecSet .secImg {
+    margin-left: -40px;
+}
+
+.vecSet h2 {
+    font-weight: bold;
+    margin-top: 35px;
+    font-size: 24px;
+    line-height: 28px;
+    color: #2C3552;
+}
+
+.vecSet p {
+    margin-top: 06px;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 150.7%;
+    color: #808080;
+}
+
+.blueBox1 {
+    margin-top: 122px;
+}
+
+.what {
+    margin-top: -390px;
+    margin-left: 97px;
+    font-weight: bold;
+    font-size: 28px;
+    line-height: 33px;
+    color: white;
+}
+
+.ex1 {
+    margin-top: 45px;
+    margin-left: 97px;
+}
+
+.GetLet {
+    font-weight: bold;
+    width: 362px;
+    font-size: 28px;
+    line-height: 150.8%;
+    color: #2C3552;
+}
+
+.lft {
+    .GetLet;
+    margin-top: 152px;
+}
+
+.rght {
+    .GetLet;
+    margin-top: 180px;
+    margin-left: 70px;
+}
+
+.white {
+    .GetLet;
+    margin-top: 123px;
+    margin-left: 70px;
+    color: #ffff;
+}
+
+.lore {
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 150.7%;
+    color: #000000;
+}
+
+.left {
+    .lore;
+    margin-top: 38px;
+    width: 542px;
+    height: 274px;
+}
+
+.right {
+    .lore;
+    margin-top: 38px;
+    margin-left: 70px;
+    width: 445px;
+    height: 331px;
+}
+
+.wht {
+    .lore;
+    margin-top: 38px;
+    margin-left: 70px;
+    width: 445px;
+    height: 331px;
+    color: white;
+}
+
+.btn {
+    width: 190px;
+    height: 47px;
+    background: #00A0B6;
+    border: 1px solid #00A0B6;
+    box-sizing: border-box;
+    border-radius: 5px;
+    color: #fff;
+    cursor: pointer;
+}
+
+.get {
+    .btn;
+    margin-top: 33px;
+    margin-left: 55px;
+}
+
+.expo {
+    .btn;
+    margin-top: 38px;
+}
+
+.expo2 {
+    .btn;
+    margin-top: 38px;
+    margin-left: 70px;
+}
+
+.ex3 {
+    margin-top: 153px;
+}
+
+.blueBox2 {
+    margin-top: 122px;
+}
+
+.ex2 {
+    background-image: url("../images/ex2.svg");
+    width: 540px;
+    height: 540px;
+    border-radius: 30px 0px 0px 30px;
+    margin-top: -1260px;
+    transform: matrix(-1, 0, 0, 1, 0, 0);
+    z-index: 1;
+}
+
+.expo3 {
+    .btn;
+    margin-left: 70px;
+    margin-top: 38px;
+    background: white;
+    color: #00A0B6;
+}
+
+.trd {
+    margin-top: 150px;
+    font-weight: 900;
+    font-size: 49px;
+    line-height: 57px;
+    text-align: center;
+    color: #2C3552;
+}
+
+.cardSet {
+    margin-top: 112px;
+}
+
+.cardSet h2 {
+    margin-top: 25px;
+    font-weight: bold;
+    font-size: 28px;
+    line-height: 150.8%;
+    color: #2C3552;
+}
+
+.cardSet p {
+    margin-top: 20px;
+    width: 351px;
+    height: 150px;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 150.8%;
+    color: #2C3552;
+}
+
+.find {
+    .btn;
+    margin-top: 15px;
+}
+
+.cardSet:hover {
+    background: linear-gradient(360deg, #049DBF 0%, rgba(4, 157, 191, 0.2) 147.06%);
+    border-radius: 5px;
+}
+
+.cardSet:hover>h2,
+.cardSet:hover>p {
+    color: white;
+}
+
+.cardSet:hover>button {
+    background: white;
+    color: #00A0B6;
+}
+
+.frth {
+    margin-top: 152px;
+    font-weight: 900;
+    font-size: 49px;
+    line-height: 57px;
+    text-align: center;
+    color: #2C3552;
+}
+
+.forth1 {
+    margin-top: 83px;
+    background: #CEF9FF;
+    border-radius: 20px;
+    height: 644px;
+    width: 350px;
+}
+
+.forth2 {
+    margin-top: 83px;
+    width: 350px;
+    height: 644px;
+    background: #FFFFFF;
+    box-shadow: 3px 4px 10px rgba(0, 0, 0, 0.25);
+    border-radius: 20px;
+}
+
+.circle {
+    margin-top: 32px;
+    margin-left: 115px;
+}
+
+.dambel {
+    margin-top: -148.76px;
+    margin-left: 135.76px;
+}
+
+.forth2 h2,
+.forth1 h2 {
+    font-weight: bold;
+    font-size: 28px;
+    line-height: 150.8%;
+    text-align: center;
+    color: #2C3552;
+}
+
+.forth2 h3,
+.forth1 h3 {
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 150.8%;
+    text-align: center;
+    color: #90ABAE;
+}
+
+.forth2 p,
+.forth1 p {
+    margin-top: 53px;
+    margin-left: 29px;
+    width: 292px;
+    height: 110px;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 150.8%;
+    text-align: center;
+    color: #000000;
+}
+
+.forth2 h4,
+.forth1 h4 {
+    margin-top: 32px;
+    font-weight: bold;
+    font-size: 28px;
+    line-height: 150.8%;
+    text-align: center;
+    color: #2C3552;
+}
+
+.forth1 h5,
+.forth2 h5 {
+    font-size: 24px;
+    line-height: 150.8%;
+    font-weight: bold;
+    text-align: center;
+    color: #90ABAE;
+}
+
+.findMore {
+    .btn;
+    margin-left: 84px;
+    margin-top: 32px;
+    width: 190px;
+    height: 47px;
+}
+
+.bannr {
+    width: 1110px;
+    height: 416px;
+    margin-top: 150px;
+}
+
+.head {
+    margin-top: -395px;
+    margin-left: 760px;
+    font-weight: bold;
+    font-size: 38px;
+    line-height: 45px;
+    color: #fff;
+}
+
+.subhead {
+    font-weight: bold;
+    margin-left: 867px;
+    font-size: 48px;
+    line-height: 56px;
+    color: #FFFFFF;
+}
+
+.bannr p {
+    margin-top: 10px;
+    margin-left: 760px;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 21px;
+    color: #FFFFFF;
+}
+
+.input-field {
+    width: 517px;
+    height: 80px;
+    background: #FFFFFF;
+    border: none;
+    border-radius: 10px;
+    margin-top: 130px;
+    margin-left: 570px;
+    z-index: 3;
+}
+
+::placeholder {
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 21px;
+    color: #938D8D;
+}
+
+.findMoreBnnr {
+    .findMore;
+    margin-left: 881px;
+    margin-top: -105px;
+}
